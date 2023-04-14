@@ -1,6 +1,6 @@
 :zap: :mouse: Introdução :zap: :mouse:
 
-Oioi, eaí pessoas. tudo certo???
+Oiie, eaí pessoas. tudo certo???
 Bem vindos à primeira fase do PS da comp! Aqui vamos explicar um pouco da teoria e dos conceitos de Git e posteriormente direcionar vocês nas tarefinhas.
 :white_check_mark: Pré-requisitos
 
